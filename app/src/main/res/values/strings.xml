@@ -1,5 +1,59 @@
 <resources>
-    <string name="app_name">SeRoDi AppStarter</string>
+    <string name="app_name">SeRoDi</string>
     <string name="action_settings">Settings</string>
-    <string name="btnStartServices">Starte Apps</string>
+    <string name="btnStartServices">Starte Aufzeichnung</string>
+    <string name="btnEndServices">Aufzeichnung beenden</string>
+    <string name="next">Weiter</string>
+    <string name="previous">Zurück</string>
+    <string name="goTo">Anleitung\nüberspringen</string>
+
+    <string name="stepDetectorService">StepDetectorService</string>
+    <string name="beaconLoggerService">BeaconLoggerService</string>
+
+    <string name="tut_page_1">
+        Herzlich Willkommen zur Erhebungswoche der Universität Greifswald im Rahmen des
+        Projektes SeRoDi. Die folgenden Schritte sollen Ihnen dabei helfen, die von uns
+        gestellten Geräte problemlos zu verwenden um die für ein Gelingen des Projektes
+        notwendigen Daten zu erlangen.
+        \n\nWir wünschen Ihnen eine erfolgreiche Woche.
+        \n\n(zum Fortsetzen mit Weiter bestätigen)
+    </string>
+
+    <string name="tut_page_2">
+        Für die Untersuchung ist es wichtig, dass Sie mit einem so genannten Sociometer
+        ausgestattet sind. Sollten Sie bereits Erfahrung im Umgang mit dem Gerät erlangt haben,
+        können Sie die folgenden Schritte durch Berühren des Feldes „Anleitung überspringen“
+        überspringen und das Gerät selbstständig anlegen und in Betrieb nehmen. Sollten Sie über
+        noch keine Erfahrung verfügen oder die Anleitung gerne erneut durchlaufen Bestätigen
+        Sie bitte mit „Weiter“.
+    </string>
+
+    <string name="tut_page_3">
+        Bei den von uns eingesetzten Sociometern handelt es sich um Geräte zur Bestimmung von
+        Interaktionsverhalten. In Ihrem Fall soll dabei geschaut werden, wie häufig Sie mit dem
+        Pflegewagen interagieren, aber auch mit den anderen Pflegekräften, die mit einem solchen
+        Gerät ausgestattet sind. Um das Gerät sicher tragen zu können, befestigen Sie bitte wie
+        auf dem Bild zusehen zwei Streifen Klettband im Brustbereich Ihrer Kleidung, im Abstand
+        von etwa 2,1 cm (soweit nicht bereits vorhanden).
+    </string>
+
+    <string name="tut_page_4">
+        Wählen Sie nun ein für Sie von der Länge passendes Band aus, um das Sociometer bequem
+        um den Hals tragen zu können. Beachten Sie dabei, dass das Band, wenn es um Ihren Hals
+        liegt, nicht unter starker Spannung steht. Befestigen Sie das Band wie auf dem Bild zu
+        erkennen am Sociometer.
+    </string>
+
+    <string name="tut_page_5">
+        Legen Sie nun das Band um Ihren Hals und befestigen Sie das Sociometer an Ihrem Oberteil.
+        Im letzten Schritt aktivieren Sie bitte das Sociometer, indem Sie den Schalter auf der
+        von Ihnen gesehen rechten Seite nach oben schieben (siehe Bild).
+    </string>
+
+    <string name="tut_page_6">
+        \nVielen Dank für Ihre Teilnahme an der Erhebung. Wir wünschen Ihnen eine angenehme Schicht.
+        \n\nBitte sperren Sie für die Dauer der Schicht Ihr Smartphone nun mit Drücken des Knopfes
+        auf der rechten Seite. Bitte Beenden Sie nach Abschluss der Schicht die Erhebung
+        durch Berühren des Feldes „Beenden“. Dieses erscheint erst nach Entsperrung des Displays.
+    </string>
 </resources>
